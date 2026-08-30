@@ -62,7 +62,7 @@ function App() {
 <div><b>U.S. Army Star (Entrance to Fort Hamilton)</b>
 <p>Gates stand guard with a pass you must show</p>
 <p>History lives where the uniforms go</p>
-<p>A post from the past still running the show</p>
+<p>A star marks the entrance to a fort you should know</p>
 </div>
 
 <div><b>Our Lady of Angels Church</b>
@@ -73,16 +73,11 @@ function App() {
 
 <div><b>Skinflints</b><p>???</p></div>
 
-<div><b>Bay Ridge Holiday House</b>
-<p>Festive year-round, not just December cheer</p>
-<p>Wreaths, lights, or pumpkins always appear</p>
-<p>A porch that declares every season is dear</p>
-</div>
 
 <div><b>Bay Ridge Bklyn Public Library</b>
 <p>Quiet halls where the stories all stack</p>
 <p>Pages and pages, no knowledge you lack</p>
-<p>Seek something green that floats but not plaque</p>
+<p>Seek something black that floats but not plaque</p>
 </div>
 
 <div><b>Verrazzano Bridge</b>
