@@ -114,8 +114,8 @@ const cards = [
         line1: "A park with a namesake who watches the trees",
         line2: "Perched in stone, ruling with stoic ease",
         line3: "Find the bird of wisdom among swaying leaves",
-        answer: "Leif Ericson Park",
-        image: "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_t",
+        answer: "Owl's Head Park",
+        image: "src/assets/owls-head-park.jpg",
         link: "https://en.wikipedia.org/wiki/Mars",
     }
 ];
