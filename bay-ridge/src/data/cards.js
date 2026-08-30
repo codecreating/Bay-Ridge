@@ -1,12 +1,11 @@
 const cards = [
     {
-        id: 1,
-        
+        id: 1,        
         line1: "A sweet-named dwelling, all trim and stone",
         line2: "Frosting-like details, but not sugar to the bone",
         line3: "It sits on a corner where stories have grown",
         answer: "The Gingerbread House",
-        image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Eiffel_Tower_",
+        image: "src/assets/gingerbread-house.jpg",
         link: "https://en.wikipedia.org/wiki/Paris"
     },
     {
@@ -15,7 +14,7 @@ const cards = [
         line2: "Flowers and trees with a bridge peeking through",
         line3: "Ships pass slowly as breezes blow new",
         answer: "Narrows Garden",
-        image: "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_t",
+        image: "src/assets/narrows-garden.jpg",
         link: "https://en.wikipedia.org/wiki/Mars",
     },
 
@@ -25,7 +24,7 @@ const cards = [
         line2: "Remnants of battles from a revolutionary fight",
         line3: "Children climb and play where history held tight",
         answer: "Cannonball Park",
-        image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.j",
+        image: "src/assets/cannonball-park.jpg",
         link: "https://en.wikipedia.org/wiki/William_Shakespeare",
     },
     {
@@ -34,7 +33,7 @@ const cards = [
         line2: "Honoring service in a solemn display",
         line3: "Benches face water where ferries briefly stay",
         answer: "American Veterans Memorial Pier",
-        image: "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_t",
+        image: "src/assets/american-veterans-memorial-pier.jpg",
         link: "https://en.wikipedia.org/wiki/Mars",
     },
     {
@@ -43,7 +42,7 @@ const cards = [
         line2: "History lives where the uniforms go",
         line3: "A star marks the entrance to a fort you should know",
         answer: "U.S. Army Star (Entrance to Fort Hamilton)",
-        image: "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_t",
+        image: "src/assets/u-s-army-star.jpg",
         link: "https://en.wikipedia.org/wiki/Mars",
     },
     {
@@ -52,7 +51,7 @@ const cards = [
         line2: "A place of reflection through every year",
         line3: "Look for the flower that brings people here",
         answer: "Our Lady of Angels Church",
-        image: "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_t",
+        image: "src/assets/our-lady-of-angels-church.jpg",
         link: "https://en.wikipedia.org/wiki/Mars",
     },
    
@@ -62,7 +61,7 @@ const cards = [
         line2: "Pages and pages, no knowledge you lack",
         line3: "Seek something black that floats but not plaque",
         answer: "Bay Ridge Bklyn Public Library",
-        image: "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_t",
+        image: "src/assets/bay-ridge-bklyn-public-library.jpg",
         link: "https://en.wikipedia.org/wiki/Mars",
     },
     {
@@ -71,7 +70,7 @@ const cards = [
         line2: "Cars climb its back to reach the Island within",
         line3: "A span with a name some still spell with a grin",
         answer: "Verrazzano Bridge",
-        image: "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_t",
+        image: "src/assets/verrazzano-bridge.jpg",
         link: "https://en.wikipedia.org/wiki/Mars",
     },
     {
@@ -80,7 +79,7 @@ const cards = [
         line2: "Blue and orange dominate, standing vivid and tall",
         line3: "History, pride, and the harbor enthrall",
         answer: "Bay Ridge Mural",
-        image: "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_t",
+        image: "src/assets/bay-ridge-mural.jpg",
         link: "https://en.wikipedia.org/wiki/Mars",
     },
     {
@@ -89,7 +88,7 @@ const cards = [
         line2: "Patriots resting in long, silent sleep",
         line3: "Dates from the 1700s mark ground you tread deep",
         answer: "Revolutionary War Cemetery",
-        image: "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_t",
+        image: "src/assets/revolutionary-war-cemetery.jpg",
         link: "https://en.wikipedia.org/wiki/Mars",
     },
     {

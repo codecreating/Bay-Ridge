@@ -1,8 +1,5 @@
 import QuestionPage from "./components/QuestionPage";
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
 import './App.css'
 
 function App() {
@@ -10,7 +7,6 @@ function App() {
 
   return (
     <>
-    <QuestionPage />
     <h1> Scavenger Hunt of Bay Ridge</h1>
     
       <section id="center">
@@ -23,6 +19,10 @@ function App() {
         </div>
 
         <div>Instructions</div>
+
+        <QuestionPage />
+
+
         <button
           type="button"
           className="counter"
