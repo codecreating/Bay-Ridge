@@ -71,8 +71,6 @@ function App() {
 <p>Look for the flower that brings people here</p>
 </div>
 
-<div><b>Skinflints</b><p>???</p></div>
-
 
 <div><b>Bay Ridge Bklyn Public Library</b>
 <p>Quiet halls where the stories all stack</p>
